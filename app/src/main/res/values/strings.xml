@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataStore</string>
+    <string name="enter_key_hint">Enter key...</string>
+    <string name="enter_value_hint">Enter value...</string>
+    <string name="save_button_text">Save</string>
+    <string name="read_button_text">Read</string>
+</resources>
